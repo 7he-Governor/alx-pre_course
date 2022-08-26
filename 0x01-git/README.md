@@ -1,2 +1,2 @@
 My new readme
-Ad Astra
+ad astra
